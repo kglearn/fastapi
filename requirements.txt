@@ -1,0 +1,64 @@
+alembic @ file:///tmp/build/80754af9/alembic_1637680647426/work
+anyio==3.4.0
+anyjson==0.3.3
+argon2-cffi @ file:///opt/concourse/worker/volumes/live/38e8fb2b-1295-4bdf-4adf-b20acbe4d91b/volume/argon2-cffi_1607022498041/work
+arrow @ file:///opt/concourse/worker/volumes/live/5e40a50d-2c05-4333-6891-c66fa81cd7f3/volume/arrow_1624646000482/work
+asgiref==3.4.1
+Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
+bcrypt @ file:///opt/concourse/worker/volumes/live/7540a0c1-471d-4a61-5243-0bfec3601197/volume/bcrypt_1607022666156/work
+certifi==2021.10.8
+cffi @ file:///opt/concourse/worker/volumes/live/976f8942-f51d-4f0e-7352-2a10f0820d0e/volume/cffi_1625814703974/work
+charset-normalizer==2.0.9
+click==8.0.3
+colour==0.1.5
+cryptography @ file:///opt/concourse/worker/volumes/live/a9ca20dd-e1fe-4ed3-754e-0db64082a5d2/volume/cryptography_1639414576087/work
+dnspython==2.1.0
+ecdsa @ file:///tmp/build/80754af9/ecdsa_1622554921100/work
+email-validator==1.1.3
+fastapi==0.70.1
+furl @ file:///tmp/build/80754af9/furl_1618421806065/work
+future @ file:///opt/concourse/worker/volumes/live/f456638c-86a7-4060-7f5f-d499a051219b/volume/future_1607571337593/work
+greenlet @ file:///opt/concourse/worker/volumes/live/b27b4e9e-4697-4d57-403b-f82d36a391ca/volume/greenlet_1628888146890/work
+h11==0.12.0
+httptools==0.2.0
+idna==3.3
+importlib-metadata @ file:///opt/concourse/worker/volumes/live/deb4b040-5d3d-417b-6177-7bbc888e23de/volume/importlib-metadata_1638542901294/work
+importlib-resources @ file:///tmp/build/80754af9/importlib_resources_1625135880749/work
+infinity==1.5
+intervals==0.9.2
+itsdangerous==2.0.1
+Jinja2==3.0.3
+Mako @ file:///tmp/build/80754af9/mako_1610650590832/work
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/1bcf0940-5bf8-4171-61e3-2133f5885e8b/volume/markupsafe_1621528148241/work
+orderedmultidict==1.0.1
+orjson==3.6.5
+passlib==1.7.4
+pendulum @ file:///tmp/build/80754af9/pendulum_1605120908839/work
+phonenumbers @ file:///tmp/build/80754af9/phonenumbers_1626154302581/work
+psycopg2 @ file:///opt/concourse/worker/volumes/live/7541fe58-2a45-4073-5d69-313e733fc729/volume/psycopg2_1612298592535/work
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodome @ file:///opt/concourse/worker/volumes/live/49b28295-c302-4ed4-4e42-4e5c179d97ce/volume/pycryptodome_1613764570521/work
+pydantic==1.8.2
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv==0.19.2
+python-jose @ file:///tmp/build/80754af9/python-jose_1623673016654/work
+python-multipart==0.0.5
+pytz==2021.3
+pytzdata @ file:///Users/ktietz/demo/mc3/conda-bld/pytzdata_1630655795405/work
+PyYAML==5.4.1
+requests==2.26.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sniffio==1.2.0
+SQLAlchemy @ file:///opt/concourse/worker/volumes/live/ea49858c-463e-4be5-4062-a653222e387d/volume/sqlalchemy_1638290674155/work
+SQLAlchemy-Utils @ file:///tmp/build/80754af9/sqlalchemy-utils_1625090568042/work
+starlette==0.16.0
+typing_extensions==4.0.1
+ujson==4.3.0
+urllib3==1.26.7
+uvicorn==0.15.0
+uvloop==0.16.0
+watchgod==0.7
+websockets==10.1
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
